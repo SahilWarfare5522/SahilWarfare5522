@@ -1,4 +1,3 @@
-
 # 💫 Hi 👋, I'm Sahil Verma
 **Certified in Data Analyst || Expertise in AI, ML and Business Analytics || Data Visualization using Power BI & Tableau || Driving Insights with Python & SQL Server**
 
@@ -28,12 +27,12 @@ Email Me 👉 ✉️ **sahilvermawarfare5522@gmail.com** For Project Reviwe or A
 # 📊 GitHub Stats:
 <h2>📊 GitHub Stats:</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilWarfare5522&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" style="width: 320px;" />
+<div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center; align-items: flex-start; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilWarfare5522&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" style="width: 400px;" />
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SahilWarfare5522&theme=tokyonight&hide_border=false" style="width: 320px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SahilWarfare5522&theme=tokyonight&hide_border=false" style="width: 400px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilWarfare5522&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 320px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilWarfare5522&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 400px;" />
 </div>
 
 ### ✍️ Random Dev Quote
