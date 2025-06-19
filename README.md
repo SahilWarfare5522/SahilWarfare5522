@@ -26,12 +26,14 @@ Email Me 👉 ✉️ **sahilvermawarfare5522@gmail.com** For Project Reviwe or A
 </div>
 
 # 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilWarfare5522&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+<h2>📊 GitHub Stats:</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilWarfare5522&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" style="width: 320px;" />
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SahilWarfare5522&theme=tokyonight&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SahilWarfare5522&theme=tokyonight&hide_border=false" style="width: 320px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilWarfare5522&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilWarfare5522&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 320px;" />
 </div>
 
 ### ✍️ Random Dev Quote
