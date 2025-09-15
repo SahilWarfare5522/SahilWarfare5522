@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sahil Verma
-**Certified in Data Analyst || Expertise in AI, ML and Business Analytics || Data Visualization using Power BI & Tableau || Driving Insights with Python & SQL Server**
+**Certified in Data Analyst || Expertise in AI, ML and Business Analytics || Data Visualization using Jupyter Notebooks, Power BI & Tableau || Driving Insights with Python & SQL Server**
 
 Email Me 👉 ✉️ **sahilvermawarfare5522@gmail.com** For Project Reviwe or Anything Else. 😊😊
 
